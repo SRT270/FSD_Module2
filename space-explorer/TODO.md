@@ -1,0 +1,10 @@
+- [x] Create src/components/EarthImagery.js
+- [x] Create src/components/ISSLocation.js
+- [x] Update src/App.js to add Earth Imagery and ISS Location features
+- [ ] Update src/App.css for any new styling
+- [ ] Test the enhanced app
+- [ ] Add interactive charts for asteroid sizes and Mars rover photos count
+- [ ] Add search/filter functionality for asteroids by hazard level or size
+- [ ] Add user input form to select date ranges for NASA data
+- [ ] Improve responsive layout with collapsible sections
+- [ ] Add live updating ISS location on a map
